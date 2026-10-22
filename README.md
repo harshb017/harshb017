@@ -1,16 +1,25 @@
-## Hi there 👋
+# Harsh Bhagat
 
-<!--
-**harshb017/harshb017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer · MERN Stack · JavaScript · REST APIs**
 
-Here are some ideas to get you started:
+Hi, I'm Harsh — **harshb017** on GitHub. I build practical web applications with MongoDB, Express.js, React, and Node.js. My interests include clear user interfaces, API development, and connecting frontend experiences with backend services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical skills
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS, responsive web design |
+| Backend | Node.js, Express.js, REST APIs, JSON |
+| Database | MongoDB |
+| Languages | JavaScript, Java |
+| Tools | Git, GitHub, VS Code, Figma |
+
+## What I work on
+
+- Full stack applications using the MERN stack.
+- REST API development and frontend API integration.
+- Responsive interfaces that make everyday tasks easier.
+
+## Explore my work
+
+Browse my [public repositories](https://github.com/harshb017?tab=repositories) for projects, experiments, and coding practice.
